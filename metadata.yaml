@@ -1,0 +1,33 @@
+_repo: Peace-in-Friendship-Village_52410
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gale, Zona
+    aliases:
+    - Breese, William Llywelyn, Mrs.
+    - Breese, William Lleywelyn, Mrs.
+    birthdate: 1874
+    deathdate: 1938
+    gutenberg_agent_id: '3531'
+    url: http://www.gutenberg.org/2009/agents/3531
+    wikipedia: http://en.wikipedia.org/wiki/Zona_Gale
+description: ''
+gutenberg_issued: '2016-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52410'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories, American'
+- !lcsh 'City and town life -- Fiction'
+- GITenberg
+tableOfContents: The feast of nations -- Peace in Friendship Village -- The story
+  of Jeffro -- When Nick Nordman came back home -- Being good to Letty -- Something
+  plus -- The Art and Loan Dress Exhibit -- Rose pink -- Peace -- Dream -- The brother-man
+  -- The cable -- When the hero came home -- Folks.
+title: Peace in Friendship Village
+url: http://www.gutenberg.org/ebooks/52410
